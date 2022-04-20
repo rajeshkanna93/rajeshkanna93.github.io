@@ -1,0 +1,80 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+header .container-fluid{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+header .navbar-inverse .navbar-brand{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+header .navbar-inverse .navbar-nav>li>a{
+    color: #fff;
+}
+header .navbar-inverse .navbar-nav>.active>a{
+    font-weight: bold;
+    text-decoration: underline;
+}
+h1{
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+.port-img{    
+    border-radius: 15%;
+}
+.about p{
+    font-size: 20px;
+    text-align: justify;
+}
+.about{    
+    margin-top: 20px;
+}
+.certification{
+    margin-top: 20px;
+    text-align: center;
+}
+.certification img{
+    width: 100%;
+    height: 290px;
+}
+.project .item{
+    margin-bottom: 50px;
+}
+.project h1{
+    text-align: center;
+    margin-bottom:75px;
+}
+.project p{
+    font-size: 20px;
+    text-align: justify;
+}
+.project h3{
+    text-align: center;
+    text-transform: uppercase;
+    color: #222;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.project img{
+    width: 100%;
+    border: 1px solid;
+}
+.project h4{
+    text-align: center;
+}
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+ }
+ .copyright{
+     font-size: 14px;
+ }
